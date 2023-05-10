@@ -1,5 +1,5 @@
 # WalkingCSharp
-#Unidad 1 Ejercicio 2
+## Unidad 1 Ejercicio 2
 Los parámetros de la aplicación son:
 
 Se nos proporciona el nombre y la información de la clase del alumno.
