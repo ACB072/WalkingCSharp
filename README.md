@@ -9,6 +9,7 @@
 - Instrucciones de ejecucion
   - `Abrir el proyecto en Visual Code`
   - `Seleccionar la rama a ejecutar`
+  - `Acceder a la carpeta del ejercicio`
   - `dotnet run`
 # Descripcion:
 - .NET 7.0 Requerido
